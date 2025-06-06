@@ -543,12 +543,12 @@ function App() {
 
           <div className="mt-6 sm:mt-8 flex flex-wrap justify-end gap-3 sm:gap-4">
             <a
-              href="https://codefomo.netlify.app/"
+              href="https://myhome-allxddev.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto inline-flex items-center justify-center px-4 sm:px-6 py-2 sm:py-3 rounded-xl text-white bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 transition-all duration-200 focus:ring-2 focus:ring-blue-200 shadow-lg hover:shadow-xl text-sm sm:text-base"
             >
-              <Code className="mr-2 h-4 w-4 sm:h-5 sm:w-5" /> Code Fomo
+              <Code className="mr-2 h-4 w-4 sm:h-5 sm:w-5" /> AllxdDev Web
             </a>
             <a
               href="https://gitpublis.netlify.app/"
